@@ -1,0 +1,10 @@
+name: sandbox-tavily
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pip
+  - pip:
+    - python-dotenv
+    - tavily-python
