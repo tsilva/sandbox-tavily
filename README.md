@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="logo.png" alt="sandbox-tavily" width="256"/>
+  <img src="logo.png" alt="sandbox-tavily" width="512"/>
 
   [![Python](https://img.shields.io/badge/Python-3.11-blue.svg)](https://www.python.org/)
   [![Tavily](https://img.shields.io/badge/Tavily-API-orange.svg)](https://tavily.com/)
