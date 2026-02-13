@@ -5,7 +5,7 @@
   [![Tavily](https://img.shields.io/badge/Tavily-API-orange.svg)](https://tavily.com/)
   [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-  **🔍 A sandbox for experimenting with the Tavily search API**
+  **🔍 Sandbox for experimenting with the Tavily search API 🌐**
 
   [Tavily Docs](https://docs.tavily.com/) · [Get API Key](https://tavily.com/)
 </div>
