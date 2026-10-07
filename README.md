@@ -1,17 +1,19 @@
-> [!NOTE]
-> This repository exists only for experimentation and is currently archived.
-
-<div align="center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/tsilva/sandbox-tavily/main/logo.png" alt="sandbox-tavily" width="512"/>
+  <br />
+  <!-- repo-tagline:start -->
+  <strong>🔍 Sandbox for experimenting with the Tavily search API 🌐</strong>
+  <!-- repo-tagline:end -->
+</p>
 
-  [![Python](https://img.shields.io/badge/Python-3.11-blue.svg)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-3.11-blue.svg)](https://www.python.org/)
   [![Tavily](https://img.shields.io/badge/Tavily-API-orange.svg)](https://tavily.com/)
   [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-  **🔍 Sandbox for experimenting with the Tavily search API 🌐**
-
   [Tavily Docs](https://docs.tavily.com/) · [Get API Key](https://tavily.com/)
-</div>
+
+> [!NOTE]
+> This repository exists only for experimentation and is currently archived.
 
 ## Overview
 
